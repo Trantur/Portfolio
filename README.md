@@ -10,7 +10,6 @@ Otra con los relacionados con Ingeniería de datos - Data Engineer
 
 Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 
-
 ## 🤖**Projects related to Artificial Intelligence**
 <table>
 <tr>
@@ -27,6 +26,10 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30">
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30">
+</p>
 </div>
                                                                                       
 </td>       
