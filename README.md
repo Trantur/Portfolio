@@ -11,6 +11,7 @@ Otra con los relacionados con Ingeniería de datos - Data Engineer
 Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 
 ## 🤖**Projects related to Artificial Intelligence**
+<!-- 1a tabla, 1a fila (AI)-->
 <table>
 <tr>
 <td width="50%">
@@ -30,8 +31,7 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="30">
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="30">
 </p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>       
 
 <td width="50%">
@@ -47,13 +47,41 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>  
+</tr>
+
+<!-- 1a tabla, 2a fila (AI)-->
+<tr>
+<td width="50%">
+<h3 align="center">Análisis de muertes en el Titanic</h3>
+<div align="center">
+<p><strong>Proyecto en desarrollo...</strong></p>
+</div>
+</td>
+  
+<td width="50%">
+<h3 align="center">Nuevo Proyecto 2</h3>
+<div align="center">
+<a href="https://github.com/tu-usuario/proyecto2" target="_blank"><img src="https://via.placeholder.com/400" width="400" alt="Nuevo Proyecto 2"></a>
+<p>
+<a href="https://github.com/tu-usuario/proyecto2" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-green?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
+</a>
+</p>
+<p>Descripción breve de tu proyecto 2 con <strong>puntos clave</strong>. Curso <strong>GRATUITO</strong> y abierto.</p>
+</div>
+</td>
+</tr>
 </table>
 
 
+
 ## 📊**Projects related to Data Analysis**
+<!-- 2a tabla, 1a fila (Data Analysis)-->
 <table>
 <tr>
 <td width="50%">
@@ -95,6 +123,7 @@ Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 
 
 ## ⚙**Projects related to Data Engineering**
+<!-- 3a tabla, 1a fila (Data Engineering)-->
 <table>
 <tr>
 <td width="50%">
