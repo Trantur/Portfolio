@@ -10,7 +10,7 @@ Otra con los relacionados con Ingeniería de datos - Data Engineer
 
 Para el repositorio principal poner una tabla que enlace a algunos de ellos -->
 
-## 🤖**Projects related to Artificial Intelligence**
+## 🤖📊**Projects related to Artificial Intelligence & Data Analysis**
 <!-- 1a tabla, 1a fila (AI)-->
 <table>
 <tr>
